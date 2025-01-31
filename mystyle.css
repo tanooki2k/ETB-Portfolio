@@ -4,6 +4,13 @@
 /* ************************* */
 
 
+/* Stle the Horizontal Line*/
+hr.p {
+	border-top: 1px solid #00008b;
+	height: 50px;
+}
+
+
 /* Style the buttons */
 .button {
 
@@ -129,6 +136,9 @@ nav a:hover {
 	border-color: var(--accent_color);
 	border-style:var(--border-style);
 
+	
+	opacity: 0.8;
+
   	background: var(--colour);
   	text-align: justify;
 
@@ -167,7 +177,6 @@ h2 {
 	margin-right: 2%;
 	font-weight: oblique;
 	text-align: Center;
-
         margin: 2;
 	padding: 0;
 		
