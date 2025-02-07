@@ -6,7 +6,7 @@
 
 /* Stle the Horizontal Line*/
 hr.p {
-	border-top: 1px solid #00008b;
+	border: 10px solid #00008b;
 	height: 50px;
 }
 
